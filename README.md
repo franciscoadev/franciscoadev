@@ -20,7 +20,7 @@
     </header>    
     <nav>
         <ul>
-            <li><a href="#" target="_blank">Inicio</a></li>
+            <li><a href="https://oferta.senasofiaplus.edu.co/sofia-oferta/" target="_blank">Inicio</a></li>
             <li><a href="#">Servicios</a></li>
             <li><a href="#">Contacto</a></li>
        </ul>
