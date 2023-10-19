@@ -8,7 +8,7 @@
 
 <p align="center"> 
   <samp>    
-    「 I am developer <b>Bangladesh</b> 」
+    「 I am developer」
     <br>
   </samp>
 </p>
